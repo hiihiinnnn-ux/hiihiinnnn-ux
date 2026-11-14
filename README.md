@@ -110,9 +110,15 @@ focus:
   <a href="https://github.com/hiihiinnnn-ux?tab=repositories"><img src="https://img.shields.io/badge/View_my_repositories-333333?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View repositories" /></a>
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=hiihiinnnn-ux&amp;show_icons=true&amp;hide_border=true&amp;bg_color=171717&amp;title_color=dddddd&amp;text_color=eeeeee&amp;icon_color=dddddd&amp;ring_color=666666" alt="GitHub public activity statistics" width="440" />
-  <br />
-  <img src="./assets/contribution-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
 </div>
+
+## AI Engineering Lab / Neural Pipeline
+
+<div align="center">
+  <img src="./assets/neural-pipeline.svg" alt="Animated conceptual AI pipeline: prompt input, tokenization, neural inference, agent tools and response evaluation" width="100%" />
+</div>
+
+*Illustrative AI engineering simulation — not live model or contribution telemetry.*
 
 ## 07 / Current focus
 
