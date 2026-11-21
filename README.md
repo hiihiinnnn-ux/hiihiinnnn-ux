@@ -59,6 +59,9 @@ focus:
 
   <a href="https://github.com/hiihiinnnn-ux/prompt-engineering/blob/main/BOOK.md"><img src="https://img.shields.io/badge/READ_THE_BOOK-333333?style=for-the-badge&amp;logo=bookstack&amp;logoColor=white" alt="Read EL's Prompt Engineering online" /></a>
   <a href="https://github.com/hiihiinnnn-ux/prompt-engineering"><img src="https://img.shields.io/badge/BOOK_REPOSITORY-454545?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Book repository" /></a>
+  <a href="https://zenodo.org/search?q=EL%27s%20Prompt%20Engineering"><img src="https://img.shields.io/badge/FIND_ON_ZENODO-383838?style=for-the-badge&amp;logoColor=white" alt="Search Zenodo for EL’s Prompt Engineering — exact record URL pending verification" /></a>
+
+  <sub>Zenodo search by title; the book-specific publication URL / DOI is pending verification.</sub>
 </div>
 
 ## 04 / Technology stack
@@ -128,6 +131,11 @@ focus:
 
 <img src="https://img.shields.io/badge/Google-AI_Analytics-333333?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Google — AI Analytics" />
 <img src="https://img.shields.io/badge/Google-Data_Analysis-333333?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Google — Data Analysis" />
+<img src="https://img.shields.io/badge/Google-ML_%26_Advanced_AI_Techniques-333333?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Google Certificate/Diploma — Machine Learning and Advanced AI Techniques" />
+
+**Additional diploma**
+
+<img src="https://img.shields.io/badge/Diploma-Information_Technology_%26_Cloud_Services-454545?style=for-the-badge&amp;logoColor=white" alt="Diploma in Information Technology and Cloud Services" />
 
 </div>
 
