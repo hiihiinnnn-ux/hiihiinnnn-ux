@@ -59,9 +59,8 @@ focus:
 
   <a href="https://github.com/hiihiinnnn-ux/prompt-engineering/blob/main/BOOK.md"><img src="https://img.shields.io/badge/READ_THE_BOOK-333333?style=for-the-badge&amp;logo=bookstack&amp;logoColor=white" alt="Read EL's Prompt Engineering online" /></a>
   <a href="https://github.com/hiihiinnnn-ux/prompt-engineering"><img src="https://img.shields.io/badge/BOOK_REPOSITORY-454545?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Book repository" /></a>
-  <a href="https://zenodo.org/search?q=EL%27s%20Prompt%20Engineering"><img src="https://img.shields.io/badge/FIND_ON_ZENODO-383838?style=for-the-badge&amp;logoColor=white" alt="Search Zenodo for EL’s Prompt Engineering — exact record URL pending verification" /></a>
+  <a href="https://zenodo.org/records/24344227"><img src="https://img.shields.io/badge/READ_ON_ZENODO-383838?style=for-the-badge&amp;logoColor=white" alt="EL’s Prompt Engineering — published record on Zenodo" /></a>
 
-  <sub>Zenodo search by title; the book-specific publication URL / DOI is pending verification.</sub>
 </div>
 
 ## 04 / Technology stack
