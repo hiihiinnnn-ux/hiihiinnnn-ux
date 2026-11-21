@@ -4,7 +4,8 @@
   <img src="./assets/focus.svg" alt="AI agents, model inference, system design and kernel-level interests" width="100%" />
   <br /><br />
   <a href="https://elsai.space/"><img src="https://img.shields.io/badge/EL.ai-333333?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="EL.ai" /></a>
-  <a href="https://et-engs.space/"><img src="https://img.shields.io/badge/ET_Engs-242424?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="ET Engs" /></a>
+  <a href="https://graph.elsai.space/"><img src="https://img.shields.io/badge/EL_Engine-242424?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="EL Engine" /></a>
+  <a href="https://www.instagram.com/elforai.co/"><img src="https://img.shields.io/badge/EL_for_AI-383838?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="EL for AI — AI Services" /></a>
   <a href="https://t.me/i64vn"><img src="https://img.shields.io/badge/Telegram-454545?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram" /></a>
   <a href="https://www.instagram.com/i64vn/"><img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram @i64vn" /></a>
   <br />
@@ -17,7 +18,7 @@
 
 I'm an **AI Engineer and Systems Builder**, currently studying in the Software Department at the University of Babylon, College of Information Technology. My work focuses on AI engineering, LLM-powered products, system design, backend engineering and reliable infrastructure.
 
-I build AI applications and agents, work with prompt engineering and model training, integrate large language models (LLMs), design secure APIs and database architectures, and deploy real-world software products. My technical interests also include network engineering, Linux internals, kernel-level systems and performance. My work on EL.ai brings together AI model integration, Iraqi Arabic experiences, authentication, conversation management and production deployment.
+I build AI applications and agents, work with prompt engineering and model training, integrate large language models (LLMs), design secure APIs and database architectures, and deploy real-world software products. My technical interests also include network engineering, Linux internals, kernel-level systems and performance. My work on EL.ai brings together AI model integration, Iraqi Arabic experiences, authentication, conversation management and production deployment. I'm also building **EL Engine**, a visual AI and agent-workflow workspace, and I authored *EL's Prompt Engineering: From Instructions to Intelligent Systems*.
 
 ```yaml
 role: AI Engineer | Systems Builder
@@ -38,11 +39,29 @@ focus:
 | Project | What I'm building | Link |
 | :--- | :--- | :--- |
 | **EL.ai** | Bilingual AI chat platform with Iraqi Arabic experiences, conversation history and model integration. | [Visit EL.ai](https://elsai.space/) |
-| **ET Engs** | Bilingual engineering and software services website with a project showcase. | [Visit ET Engs](https://et-engs.space/) |
+| **EL Engine** *(formerly EL Graph)* | Visual AI workspace for mind maps, architecture diagrams, agent workflows and local-model integrations, with review-before-apply controls. | [Explore EL Engine](https://graph.elsai.space/) |
+| **EL for AI** | AI services initiative focused on practical AI solutions, automation and engineering services. | [Instagram @elforai.co](https://www.instagram.com/elforai.co/) |
 | **Chipfinder** | Map-based discovery concept for electronics components and local suppliers in Iraq. | [Visit Chipfinder](https://chipfinder.space/) |
 | **Study AI** | AI-assisted study workspace with notes, summaries, quizzes and flashcards. | In development |
 
-## 03 / Technology stack
+## 03 / Publication — EL's Prompt Engineering
+
+<div align="center">
+  <a href="https://github.com/hiihiinnnn-ux/prompt-engineering">
+    <img src="https://raw.githubusercontent.com/hiihiinnnn-ux/prompt-engineering/main/assets/cover.svg" width="230" alt="Cover of EL's Prompt Engineering: From Instructions to Intelligent Systems, by Ali Raed" />
+  </a>
+
+  **EL's Prompt Engineering: From Instructions to Intelligent Systems**
+
+  **By Ali Raed · First Edition (2026) · 96 pages · 12 chapters · English**
+
+  An AI engineering book covering prompts, context engineering, retrieval, tool calling, agent design, prompt security, evaluation and practical AI systems — including an EL.ai case study.
+
+  <a href="https://github.com/hiihiinnnn-ux/prompt-engineering/blob/main/BOOK.md"><img src="https://img.shields.io/badge/READ_THE_BOOK-333333?style=for-the-badge&amp;logo=bookstack&amp;logoColor=white" alt="Read EL's Prompt Engineering online" /></a>
+  <a href="https://github.com/hiihiinnnn-ux/prompt-engineering"><img src="https://img.shields.io/badge/BOOK_REPOSITORY-454545?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Book repository" /></a>
+</div>
+
+## 04 / Technology stack
 
 <div align="center">
 
@@ -72,7 +91,7 @@ focus:
 
 **Additional tools:** Neon · Render · Socket.IO · OpenRouter · Ollama · Google Maps APIs
 
-## 04 / AI & Systems Engineering
+## 05 / AI & Systems Engineering
 
 <div align="center">
   <img src="https://img.shields.io/badge/Prompt_Engineering-333333?style=for-the-badge&amp;logoColor=white" alt="Prompt Engineering" />
@@ -96,7 +115,7 @@ focus:
 | Deployment | VPS, Linux, Docker, cloud deployment and CI/CD |
 | Low-level systems (learning) | Linux internals, operating systems, kernel concepts and performance |
 
-## 05 / Certifications
+## 06 / Certifications
 
 <div align="center">
 
@@ -114,7 +133,7 @@ focus:
 
 <!-- Subject labels supplied by the profile owner; add exact credential titles and verification links when available. -->
 
-## 06 / GitHub activity
+## 07 / GitHub activity
 
 <div align="center">
   <a href="https://github.com/hiihiinnnn-ux?tab=repositories"><img src="https://img.shields.io/badge/View_my_repositories-333333?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View repositories" /></a>
@@ -122,7 +141,7 @@ focus:
   <img src="https://github-readme-stats.vercel.app/api?username=hiihiinnnn-ux&amp;show_icons=true&amp;hide_border=true&amp;bg_color=171717&amp;title_color=dddddd&amp;text_color=eeeeee&amp;icon_color=dddddd&amp;ring_color=666666" alt="GitHub public activity statistics" width="440" />
 </div>
 
-## AI Engineering Lab / Neural Pipeline
+## 08 / AI Engineering Lab — Neural Pipeline
 
 <div align="center">
   <img src="./assets/neural-pipeline.svg" alt="Animated conceptual AI pipeline: prompt input, tokenization, neural inference, agent tools and response evaluation" width="100%" />
@@ -130,11 +149,13 @@ focus:
 
 *Illustrative AI engineering simulation — not live model or contribution telemetry.*
 
-## 07 / Current focus
+## 09 / Current focus
 
 ```yaml
 building:
   - EL.ai and AI-powered applications
+  - EL Engine: visual AI systems and agent workflows
+  - EL for AI: practical AI services and solutions
   - AI agents, model integration and LLM workflows
   - Prompt engineering and model training
   - Network engineering and reliable deployment
@@ -150,14 +171,15 @@ interested_in:
   - Open-source collaboration
 ```
 
-## 08 / Connect
+## 10 / Connect
 
 <div align="center">
   <a href="https://t.me/i64vn"><img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram @i64vn" /></a>
   <a href="https://github.com/hiihiinnnn-ux"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.instagram.com/i64vn/"><img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram @i64vn" /></a>
+  <a href="https://www.instagram.com/i64vn/"><img src="https://img.shields.io/badge/Personal_Instagram-333333?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram @i64vn" /></a>
+  <a href="https://www.instagram.com/elforai.co/"><img src="https://img.shields.io/badge/AI_Services_@elforai.co-404040?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="AI Services Instagram @elforai.co" /></a>
   <br />
-  <a href="https://elsai.space/">EL.ai</a> · <a href="https://et-engs.space/">ET Engs</a>
+  <a href="https://elsai.space/">EL.ai</a> · <a href="https://graph.elsai.space/">EL Engine</a> · <a href="https://github.com/hiihiinnnn-ux/prompt-engineering">EL's Prompt Engineering</a>
   <br /><br />
   <strong>Design the system. Build the intelligence.</strong>
 </div>
