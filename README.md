@@ -135,6 +135,7 @@ focus:
 **Additional diploma**
 
 <img src="https://img.shields.io/badge/Diploma-Information_Technology_%26_Cloud_Services-454545?style=for-the-badge&amp;logoColor=white" alt="Diploma in Information Technology and Cloud Services" />
+<img src="https://img.shields.io/badge/Diploma-Advanced_Python_for_Data_Analysis-454545?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Diploma in Advanced Python for Data Analysis" />
 
 </div>
 
