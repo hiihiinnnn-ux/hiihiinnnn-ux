@@ -39,7 +39,7 @@ focus:
 | Project | What I'm building | Link |
 | :--- | :--- | :--- |
 | **EL.ai** | Bilingual AI chat platform with Iraqi Arabic experiences, conversation history and model integration. | [Visit EL.ai](https://elsai.space/) |
-| **EL Engine** *(formerly EL Graph)* | Visual AI workspace for mind maps, architecture diagrams, agent workflows and local-model integrations, with review-before-apply controls. | [Explore EL Engine](https://graph.elsai.space/) |
+| **EL Engine** | Visual AI workspace for mind maps, architecture diagrams, agent workflows and local-model integrations, with review-before-apply controls. | [Explore EL Engine](https://graph.elsai.space/) |
 | **EL for AI** | AI services initiative focused on practical AI solutions, automation and engineering services. | [Instagram @elforai.co](https://www.instagram.com/elforai.co/) |
 | **Chipfinder** | Map-based discovery concept for electronics components and local suppliers in Iraq. | [Visit Chipfinder](https://chipfinder.space/) |
 | **Study AI** | AI-assisted study workspace with notes, summaries, quizzes and flashcards. | In development |
